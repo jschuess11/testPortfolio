@@ -75,12 +75,6 @@
     scroll-behavior: smooth;
   }
 
-  /* @media screen and (max-width: 767px) {
-    .projects {
-      align-content: center;
-    }
-} need to fix this to center projects when on small screen */
-
 body {
   margin: 0;
   font-family: var(--bs-body-font-family);
